@@ -1,6 +1,6 @@
-#Project_2
+# Project_2
 
-##Purpose: Given a number less than 15 digits long. Output PI to that decimal Place.
+## Purpose: Given a number less than 15 digits long. Output PI to that decimal Place.
 
 Project By: John Yu
 
